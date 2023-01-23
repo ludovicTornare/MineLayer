@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8992f3-7693-4781-8d12-064aeec0912c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Foreuse.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Foreuse.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Kbd90MohJCtsnFb1mMIU84I66W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34980565" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29983342" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8992f3-7693-4781-8d12-064aeec0912c" name="Default Changelist" comment="" />
+      <created>1674247063030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674247063030</updated>
+      <workItem from="1674247068792" duration="974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1832" height="381" key="GridCell.Tab.0.bottom" timestamp="1674248092289">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.0.bottom/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092289" />
+    <state width="1832" height="381" key="GridCell.Tab.0.center" timestamp="1674248092287">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.0.center/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092287" />
+    <state width="1832" height="381" key="GridCell.Tab.0.left" timestamp="1674248092287">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.0.left/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092287" />
+    <state width="1832" height="381" key="GridCell.Tab.0.right" timestamp="1674248092288">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.0.right/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092288" />
+    <state width="1832" height="381" key="GridCell.Tab.1.bottom" timestamp="1674248092291">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.1.bottom/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092291" />
+    <state width="1832" height="381" key="GridCell.Tab.1.center" timestamp="1674248092290">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.1.center/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092290" />
+    <state width="1832" height="381" key="GridCell.Tab.1.left" timestamp="1674248092289">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.1.left/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092289" />
+    <state width="1832" height="381" key="GridCell.Tab.1.right" timestamp="1674248092290">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.1.right/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092290" />
+    <state width="1832" height="381" key="GridCell.Tab.2.bottom" timestamp="1674248092293">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.2.bottom/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092293" />
+    <state width="1832" height="381" key="GridCell.Tab.2.center" timestamp="1674248092292">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.2.center/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092292" />
+    <state width="1832" height="381" key="GridCell.Tab.2.left" timestamp="1674248092292">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.2.left/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092292" />
+    <state width="1832" height="381" key="GridCell.Tab.2.right" timestamp="1674248092293">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.2.right/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092293" />
+    <state width="1832" height="381" key="GridCell.Tab.3.bottom" timestamp="1674248092294">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.3.bottom/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092294" />
+    <state width="1832" height="381" key="GridCell.Tab.3.center" timestamp="1674248092294">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.3.center/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092294" />
+    <state width="1832" height="381" key="GridCell.Tab.3.left" timestamp="1674248092293">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.3.left/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092293" />
+    <state width="1832" height="381" key="GridCell.Tab.3.right" timestamp="1674248092294">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state width="1832" height="381" key="GridCell.Tab.3.right/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248092294" />
+    <state x="-1428" y="92" key="SettingsEditor" timestamp="1674248025011">
+      <screen x="-1874" y="-71" width="1874" height="1055" />
+    </state>
+    <state x="-1428" y="92" key="SettingsEditor/-1874.-71.1874.1055/0.25.1440.875@-1874.-71.1874.1055" timestamp="1674248025011" />
+  </component>
+</project>
